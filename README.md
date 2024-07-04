@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Dindin Imanudin
+- 🏫 I'm currently a Informatics student at the National Institute of Technology.
+- 💻 I have a passion for web development, especially using modern technologies like Next.js, Tailwind CSS, and MongoDB.
+- 🌱 I'm constantly learning and expanding my skills to stay updated with the latest trends and best practices in web development.
