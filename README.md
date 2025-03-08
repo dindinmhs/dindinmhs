@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Dindin Imanudin
-- 🏫 I'm currently a Informatics student at the National Institute of Technology Bandung.
-- 💻 I have a passion for web development, especially using modern technologies like Next.js, Tailwind CSS, and MongoDB.
-- 🌱 I'm constantly learning and expanding my skills to stay updated with the latest trends and best practices in web development.
+![cyber](https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif)
