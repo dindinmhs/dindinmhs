@@ -22,10 +22,45 @@ Building AI-powered applications, experimenting with LLMs, and exploring product
 ## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dindinmhs&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dindinmhs&show_icons=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"/>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dindinmhs&layout=compact&hide_border=true&theme=github_dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dindinmhs&layout=compact&hide_border=true&theme=default"
+    media="(prefers-color-scheme: light)"
+  />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dindinmhs&layout=compact"/>
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=dindinmhs&show_icons=true&rank_icon=github&hide_border=true&theme=github_dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=dindinmhs&show_icons=true&rank_icon=github&hide_border=true&theme=default"
+    media="(prefers-color-scheme: light)"
+  />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dindinmhs"/>
+</picture>
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dindinmhs&hide_border=true&background=FFFFFF00&ring=FFA116F&fire=FFA116&currStreakLabel=FFA116&sideNums=C9D1D9&currStreakNum=FFFFFF&dates=9CA3AF&sideLabels=C9D1D9"/>
+
+<picture>
+  <source
+    srcset="https://streak-stats.demolab.com?user=dindinmhs&hide_border=true&background=00000000&ring=FFA116&fire=FFA116&currStreakLabel=FFA116&sideNums=C9D1D9&currStreakNum=FFFFFF&dates=9CA3AF&sideLabels=C9D1D9"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://streak-stats.demolab.com?user=dindinmhs&hide_border=true&background=00000000&ring=FFA116&fire=FFA116&currStreakLabel=FFA116&sideNums=24292F&currStreakNum=24292F&dates=57606A&sideLabels=24292F"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://streak-stats.demolab.com?user=dindinmhs"/>
+</picture>
+
 </p>
