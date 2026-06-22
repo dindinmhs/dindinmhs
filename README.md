@@ -25,24 +25,24 @@ Building AI-powered applications, experimenting with LLMs, and exploring product
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dindinmhs&layout=compact&hide_border=true&theme=github_dark&background=00000000"
     media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dindinmhs&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=C9D1D9"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dindinmhs&layout=compact&hide_border=true&theme=default&background=00000000"
     media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dindinmhs&layout=compact&hide_border=true&bg_color=00000000&title_color=24292F&text_color=57606A"
   />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dindinmhs&layout=compact"/>
 </picture>
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=dindinmhs&show_icons=true&rank_icon=github&hide_border=true&theme=github_dark&background=00000000"
     media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=dindinmhs&show_icons=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFA116"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=dindinmhs&show_icons=true&rank_icon=github&hide_border=true&theme=default&background=00000000"
     media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api?username=dindinmhs&show_icons=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=24292F&text_color=57606A&icon_color=FFA116"
   />
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=dindinmhs"/>
 </picture>
