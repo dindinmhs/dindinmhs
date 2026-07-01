@@ -1,9 +1,5 @@
 # Hi, I'm Dindin 👋
-
-Machine Learning & Software Engineering Enthusiast
-
-Building AI-powered applications, experimenting with LLMs, and exploring production-ready machine learning systems.
-
+I enjoy turning ideas into end-to-end AI products. From building intelligent applications and developing AI models to deploying scalable AI solutions, I love transforming concepts into real-world projects. Always exploring new AI technologies and participating in hackathons and competitions to challenge myself, learn, and create impactful solutions.
 <p align="left">
   <a href="https://linkedin.com/in/dindinimanudin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
